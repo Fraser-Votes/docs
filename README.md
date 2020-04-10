@@ -1,4 +1,4 @@
-# jfss-sac-voting
+# Fraser Votes
 
-Webapp to facilitate Student Activity Council elections. More secure than American voting machines!
+Fraser Votes is a student-made web app meant to facilitate in school elections in a secure, environmentally-friendly, and efficient manner.
 

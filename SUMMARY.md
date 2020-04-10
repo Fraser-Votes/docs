@@ -1,4 +1,4 @@
 # Table of contents
 
-* [jfss-sac-voting](README.md)
+* [Fraser Votes](README.md)
 
