@@ -1,3 +1,9 @@
+---
+weight: 1
+bookFlatSection: true
+title: "Changelog"
+---
+
 # Changelog
 
 ## 0.1.0 - 2020-04-10
@@ -20,6 +26,5 @@
 
 * Responsive sign-in screen using Firebase Authentication
 * Candidates Feed
-
 
 

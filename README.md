@@ -1,4 +1,3 @@
-# Fraser Votes
+# Fraser Votes Documentation
 
-Fraser Votes is a student-made web app meant to facilitate in school elections in a secure, environmentally-friendly, and efficient manner.
-
+This is the documentation for Fraser Votes, hosted as a Hugo Book static site
